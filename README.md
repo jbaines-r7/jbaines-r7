@@ -1,4 +1,4 @@
-Vulnerability researcher that sometimes gets lucky. Two-time DEFCON speaker. Occasional blogger. Using this account for:
+Vulnerability researcher that sometimes gets lucky. Three-time DEFCON speaker and once a Black Hat speaker. Occasional blogger. Using this account for:
 
 * PoC & Exploit development
 * Metasploit contributions
